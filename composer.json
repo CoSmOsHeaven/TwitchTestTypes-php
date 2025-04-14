@@ -3,7 +3,7 @@
     "description": "A PHP-based REST API that provides Twitch user account analytics",
     "type": "project",
     "require": {
-        "php": "^8.2",
+        "php": "^8.3",
         "ext-json": "*"
     },
     "require-dev": {
